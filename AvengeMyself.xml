@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<manialink version="3">
+    <quad pos="-160 90" z-index=-100 size="320 180" image="https://img.itch.zone/aW1nLzE3OTE0MjQyLnBuZw==/original/OpkVMh.png" />
+    <quad pos="-90 90" z-index=-99 size="180 180" opacity="0.7" bgcolor="000000"/>
+    <quad pos="-80 70" z-index=0 size="160 40" image="https://img.itch.zone/aW1nLzE3OTE0Mjg5LnBuZw==/original/KrthXV.png" />
+    <label pos="0 30" z-index=0 size="160 40" text="Reject gravity. Go fast." textcolor="ffffff" halign="center" style="TextTitle1" />
+    <label pos="-70 20" z-index=0 size="140 40" text="A high-speed physics-based speedrunning FPS inspired by Tribes, Trackmania, and Sonic the Hedgehog. Master the movement, find your own routes through stages, and move like you've never moved before." textcolor="ffffff" halign="left" style="TextValueMedium" autonewline="1" /> 
+    <quad pos="-68 -5" z-index=0 size="64 36" image="https://img.itch.zone/aW1hZ2UvMjk5NDQwOC8xNzkxMzk2OC5wbmc=/original/rtAcQW.png" />
+    <quad pos="4 -5" z-index=0 size="64 36" image="https://img.itch.zone/aW1hZ2UvMjk5NDQwOC8xNzkxMzk3MC5wbmc=/347x500/HzuCCW.png" />
+    <label pos="0 -45" z-index=0 size="160 40" text="Play the jam version on Itch.io!" textcolor="9ba6fa" halign="center" style="TextTitle1" url="https://madmanepic.itch.io/avenge-myself" />
+    <label pos="0 -52" z-index=0 size="160 40" text="Wishlist the full game on Steam!" textcolor="6d7dfc" halign="center" style="TextCongratsBig" url="https://store.steampowered.com/app/3267460/AVENGE_MYSELF/" />
+    <label pos="0 -65" z-index=0 size="140 20" text="Game by MadmanEpic - Music by Pascal van den Bos" textcolor="ffffff" halign="center" style="TextTips" autonewline="1" opacity="0.3" /> 
+    
+    <music data="https://drive.google.com/uc?export=download&id=1CTscLWgKLxTKpsr01iMLIpaE8f1Ol43U" />
+</manialink>
